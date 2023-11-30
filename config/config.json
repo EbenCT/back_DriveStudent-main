@@ -1,23 +1,23 @@
 {
   "development": {
     "username": "postgres",
-    "password": "1234",
+    "password": "EsperoQueFuncione123",
     "database": "driveStudent",
-    "host": "127.0.0.1",
+    "host": "ls-8fc39c72477e818d93276c3746b59a17a39f2dd9.ctcnvbh61jso.us-east-1.rds.amazonaws.com",
     "dialect": "postgres"
   },
   "test": {
     "username": "postgres",
-    "password": "1234",
+    "password": "EsperoQueFuncione123",
     "database": "driveStudent",
-    "host": "127.0.0.1",
+    "host": "ls-8fc39c72477e818d93276c3746b59a17a39f2dd9.ctcnvbh61jso.us-east-1.rds.amazonaws.com",
     "dialect": "postgres"
   },
   "production": {
     "username": "postgres",
-    "password": "1234",
+    "password": "EsperoQueFuncione123",
     "database": "driveStudent",
-    "host": "127.0.0.1",
+    "host": "ls-8fc39c72477e818d93276c3746b59a17a39f2dd9.ctcnvbh61jso.us-east-1.rds.amazonaws.com",
     "dialect": "postgres"
   }
 }
